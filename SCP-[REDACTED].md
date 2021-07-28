@@ -2,6 +2,7 @@
 
 > [!WARNING]
 > **This article is being screened for possible memetic infection. Read at your own risk.**
+
 ### SCP-████
 
 ***
