@@ -1,5 +1,7 @@
-<h1><img src="SCP_Foundation_(emblem).svg" alt="SCP Emblem" width="80" height="100"/> SCP Foundation</h1>
+<h1><img src="Resources/SCP_Foundation_(emblem).svg" alt="SCP Emblem" width="80" height="100"/> SCP Foundation</h1>
 
+> [!WARNING]
+> **This article is being screened for possible memetic infection. Read at your own risk.**
 ### SCP-████
 
 ***
