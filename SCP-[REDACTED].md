@@ -1,7 +1,8 @@
 <h1><img src="Resources/SCP_Foundation_(emblem).svg" alt="SCP Emblem" width="80" height="100"/> SCP Foundation</h1>
 
-> [!WARNING]
-> **This article is being screened for possible memetic infection. Read at your own risk.**
+
+ > [!CAUTION]
+> This article has been automatically flagged for possible memetic infection by SCP-████ and is awaiting screening. Committees and subcommittees mentioned in this article should be disregarded unless their existence was known to you prior to reading this article. If organisational structures mentioned in this article begin manifesting in other articles or Foundation documents, report a Class 2 Bureaucratic  Breach to the SCP-████ research head immediately. If individuals begin acting on authority of a commitee or subcommittee mentioned in this article, report a Class 7 Malignant Bureaucratic Intrusion to site security and await rescue.
 
 ### SCP-████
 
