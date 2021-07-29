@@ -1,13 +1,6 @@
 <html>
 <head>
-<style>
-.alert {
-  padding: 20px;
-  background-color: #B42622;
-  color: white;
-}
-}
-</style>
+<link rel="stylesheet" href="stylesheet.css">
 </head>
 <body style="background-color:grey">
 
