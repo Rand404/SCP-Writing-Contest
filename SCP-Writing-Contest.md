@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -7,15 +6,13 @@
   background-color: #B42622;
   color: white;
 }
-"color = black"
 }
 </style>
 </head>
-<body style="background-color:black">
-<p style="color:white">
+<body style="background-color:grey">
 
 <h1><div style="text-align: center;">
-<img src="Resources/SCP_Foundation_(emblem).svg" alt="SCP Emblem" style="width:5%"/>
+<img src="Resources/Logo_of_the_SCP_Foundation.png" alt="SCP Emblem" style="width:5%"/>
 </div></h1>
 
 ***
@@ -39,6 +36,5 @@ This article has been automatically flagged for possible memetic infection by SC
 
 **Addendum:** [Optional additional paragraphs]>
 
-</p>
 </body>
 </html>
