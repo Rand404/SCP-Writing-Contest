@@ -5,7 +5,7 @@
 <body style="background-color:grey">
 
 <h1><div style="text-align: center;">
-<img src="Resources/Logo_of_the_SCP_Foundation.png" alt="SCP Emblem" style="width:5%"/>
+<img src="Resources/Logo_of_the_SCP_Foundation.svg" alt="SCP Emblem" style="width:20%"/>
 </div></h1>
 
 ***
