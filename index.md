@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.alert {
+<style> 
+  .alert {
   padding: 20px;
   background-color: #B42622;
   color: white;
