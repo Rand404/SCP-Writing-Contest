@@ -2,10 +2,9 @@
 <head>
 <link rel="stylesheet" href="stylesheet.css">
 </head>
-<body style="background-color:grey">
 
-<h1><div style="text-align: center; background-color: transparent;">
-<img src="Resources/Logo_of_the_SCP_Foundation.svg" alt="SCP Emblem" background-color="transparent" style="width:20%"/>
+<h1><div style="text-align: center;">
+<img src="Resources/Logo_of_the_SCP_Foundation.svg" alt="SCP Emblem" style="width:20%"/>
 </div></h1>
 
 ***
