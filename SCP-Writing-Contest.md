@@ -7,10 +7,12 @@
   background-color: #B42622;
   color: white;
 }
+"color = black"
+}
 </style>
 </head>
 <body style="background-color:black">
-<p style = "color: white">
+<p style="color:white">
 
 <h1><div style="text-align: center;">
 <img src="Resources/SCP_Foundation_(emblem).svg" alt="SCP Emblem" style="width:5%"/>
