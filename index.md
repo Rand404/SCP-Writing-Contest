@@ -28,5 +28,5 @@ This article has been automatically flagged for possible memetic infection by SC
 
 **Addendum:** [Optional additional paragraphs]>
 
-</body>
+
 </html>
