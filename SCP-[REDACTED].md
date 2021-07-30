@@ -39,6 +39,7 @@ Following the events of Incident-████-08-04-20, a new behaviour of insta
 ~~Research into the relationship between instances of SCP-████-1 and instances of SCP-████-2 are ongoing.~~ Following the events of Incident-████-27-03-20██ it has been determined that instances of SCP-████-2 are an unintentional side effect of SCP-████'s primary memetic effect. Refer to Addendum - SCP-████-5 for details.
 
 **Addendum - SCP-████-1:** Discovery
+
 SCP-████ was discovered in the archives of ████████, Western Oblast, Soviet Union by agents of GRU Division P on 06-10-19██ after more than ███ instances of SCP-████-2 triggered a Class 3 Bureaucratic-Ouroboros-Scenario. Due to the nature of this scenario and the swift actions of GRU Division P the situation ended with the loss of the entire Western Oblast administrative HQ with the object being brought into GRU Division P containment.
 
  Due to a lack of understanding of SCP-████'s effects, there was a number of ensuing incidents and it has even been theorised that the collapse of the Soviet Union in 1991 may have been the result of a number of uncontained infected documents resulted in a number of outbreaks of localised second-order infections resulting in over-complex bureaucratic structures and low levels of productivity. The object was brought into Foundation custody not long after the collapse of the Soviet Union.
