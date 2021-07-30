@@ -3,6 +3,6 @@
   background-color: #B42622;
   color: white;
 }
-header {
-    display: none;
-  }
+body {
+    font-family: 'Courier New', Courier, monospace !important;
+}
