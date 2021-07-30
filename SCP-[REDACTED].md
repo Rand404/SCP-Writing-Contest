@@ -2,7 +2,7 @@
 <head>
 <link rel="stylesheet" href="stylesheet.css">
 </head>
-<body>
+
 <h1><div style="text-align: center;">
 <img src="Resources/Logo_of_the_SCP_Foundation.svg" alt="SCP Emblem" style="width:20%"/>
 </div></h1>
@@ -28,5 +28,4 @@ This article has been automatically flagged for possible memetic infection by SC
 
 **Addendum:** [Optional additional paragraphs]>
 
-</body>
 </html>
